@@ -7,7 +7,7 @@ Curated Claude Code plugins for skills, workflows, and productivity tools.
 Add this marketplace to Claude Code:
 
 ```bash
-/plugin marketplace add carbin-gun@dev-workflow-marketplace
+/plugin marketplace add carbin-gun/dev-workflow-marketplace
 ```
 
 ## Available Plugins
