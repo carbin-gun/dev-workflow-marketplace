@@ -1,0 +1,23 @@
+{
+  "name": "dev-workflow-marketplace",
+  "owner": {
+    "name": "carbin-gun",
+    "email": "cilendeng@gmail.com"
+  },
+  "metadata": {
+    "description": "Development workflows, Skills and productivity tools integrated",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "dev-flow",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/carbin-gun/dev-workflow.git"
+      },
+      "description": "Core skills about development skills,coverage about:  requirements, architecture, storage, backend/frontend development, and QA testing",
+      "version": "1.0.0",
+      "strict": true
+    }
+  ]
+}
