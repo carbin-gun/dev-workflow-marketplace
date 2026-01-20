@@ -10,7 +10,7 @@
   },
   "plugins": [
     {
-      "name": "dev-flow",
+      "name": "dev-workflow",
       "source": {
         "source": "url",
         "url": "https://github.com/carbin-gun/dev-workflow.git"
